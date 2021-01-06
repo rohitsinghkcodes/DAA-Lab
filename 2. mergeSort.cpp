@@ -58,7 +58,7 @@ void printArray(int A[], int size)
  
 int main()
 {
-    int arr[] = { 12, 58 , 75 , 14, 16, 24 };
+    int arr[] = { 12, 58 , 17 , 14, 18, 36,45 };
     int arr_size = sizeof(arr) / sizeof(arr[0]);
     cout << "Given array is \n";
     printArray(arr, arr_size);
