@@ -41,7 +41,7 @@ int main()
     cout<<"Enter the size of array:";
     cin>>n;
     int arr[n];
-    cout<<"Enter the value is array:";
+    cout<<"Enter the value in array:";
     for(int i=0; i<n; i++)
         {
             cin>>arr[i];    
